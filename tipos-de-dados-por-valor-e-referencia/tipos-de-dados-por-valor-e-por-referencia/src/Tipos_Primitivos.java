@@ -15,6 +15,7 @@ public class Tipos_Primitivos {
     System.out.println("Valor do tipoChar = " + tipoChar);
     System.out.println("Valor do tipoFloat = " + tipoFloat);
     System.out.println("Valor do tipoDouble = " + tipoFloat);
+    System.out.println("Valor do tipoDouble = " + tipoDouble);
     System.out.println("Valor do tipo tipoInt" + tipoInt);
     System.out.println("Valor do tipoLong " + tipoLong);
     System.out.println("Valor do tipoBooleano = " + tipoBooleano);
